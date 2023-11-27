@@ -4,7 +4,8 @@
 GitHub: https://github.com/LauraCistjakova  
 Email: lauracistjakova@gmail.com
 ### Summary
-I am a Financial Analyst with a solid background in financial analysis and reporting. Specializing in various aspects of finance, I bring a wealth of knowledge and expertise to the table. Known for my analytical prowess, attention to detail, and quick learning abilities, I am always enthusiastic about broadening my skill set. My top skills include a strong work ethic, meticulous attention to detail, effective problem-solving capabilities, and teamwork. 
+I am a Financial Analyst with a solid background in financial analysis and reporting. Specializing in various aspects of finance, I bring a wealth of knowledge and expertise to the table. Known for my analytical prowess, attention to detail, and quick learning abilities, I am always enthusiastic about broadening my skill set. My top skills include a strong work ethic, meticulous attention to detail, effective problem-solving capabilities, and teamwork.
+
 ### Skills
 * Javascript
 * HTML & CSS
