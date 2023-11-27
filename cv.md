@@ -24,8 +24,8 @@ _Corporate Finance and Strategy consultant_
 * Financial Modeling: Utilize advanced financial modeling techniques, incorporating programming languages for automation, efficiency, and accuracy in assessing investment opportunities and analyzing financial risks.
 * Consultative Advisory: Provide expert financial advice and consultation, contributing to effective corporate decision-making and long-term strategic planning.
 ### Education
-BA School of Business and Finance (Latvia, 2022)  
-_Master of Business Administration (MBA)_  
+BA School of Business and Finance (Latvia, 2022)
+_Master of Business Administration (MBA)_
 
 BA School of Business and Finance (Latvia, 2022)  
 _Master of International Finance and Banking_
